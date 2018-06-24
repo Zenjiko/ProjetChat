@@ -11,6 +11,7 @@ namespace App1
 	{
 		public MainPage()
 		{
+            int test = 666;
 		}
 	}
 }
